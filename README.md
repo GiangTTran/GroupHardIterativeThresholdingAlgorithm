@@ -35,8 +35,8 @@ Reference: "Learning Dynamical Systems and Bifurcation via Group Sparsity", http
       Output the recovered coefficient matrix and compute the relative error.
 8. Test_Lorenz_5sets_100experiments.m
 
-       Test our group hard iterative thresholding algorihm on recovering the well-known Lorenz system where data comes from          five sources corresponding to five bifurcation parameters.
+      Test our group hard iterative thresholding algorihm on recovering the well-known Lorenz system where data comes from           five sources corresponding to five bifurcation parameters.
        
-       Run the experiment 100 times and report the probability of recovering correct terms in the governing equations as well        as the rellative error ranges for all five data sets.
+      Run the experiment 100 times and report the probability of recovering correct terms in the governing equations as well         as the rellative error ranges for all five data sets.
 
       
