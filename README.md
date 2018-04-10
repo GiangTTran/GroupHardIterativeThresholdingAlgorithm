@@ -4,11 +4,11 @@ Copywright: Hayden Schaeffer, Giang Tran, and Rachel Ward, 2018.
 Reference: "Learning Dynamical Systems and Bifurcation via Group Sparsity", https://arxiv.org/abs/1709.01558
 1. group_hard_iterative_thresholding.m
 
- Solve  
+      Solve  
  
- min_{c1,...,cm} \|D1 * c1 - b1\|_2^2 + ... \|Dm * cm - bm\|_2^2 + gamma * \|[c1,..., cm]\|_{2,0}  
+           min_{c1,...,cm} \|D1 * c1 - b1\|_2^2 + ... \|Dm * cm - bm\|_2^2 + gamma * \|[c1,..., cm]\|_{2,0}  
 
- where \|A\|_{2,0} = number of non-zero rows of the matrix A.
+      where \|A\|_{2,0} = number of non-zero rows of the matrix A.   
 
 2. dictionary1d.m
 
