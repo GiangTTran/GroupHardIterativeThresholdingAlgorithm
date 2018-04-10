@@ -25,14 +25,14 @@ Reference: "Learning Dynamical Systems and Bifurcation via Group Sparsity", http
 
       Test our group hard iterative thresholding algorithm on recovering the logistic equation
            xdot = alpha * x * (1-x)
-       where data comes from two sources corresponding to alpha = 0.05 and alpha = 0.23. 
+      where data comes from two sources corresponding to alpha = 0.05 and alpha = 0.23. 
        
-       Run the experiment 100 times and report the probability of recovering correct terms in the governing equations. Compare        with the results using l^0-model that treats each data separately.
+      Run the experiment 100 times and report the probability of recovering correct terms in the governing equations. Compare       with the results using l^0-model that treats each data separately.
 7. Test_Lorenz_5sets.m
 
-       Test our group hard iterative thresholding algorihm on recovering the well-known Lorenz system where data comes from          five sources corresponding to five bifurcation parameters.
+      Test our group hard iterative thresholding algorihm on recovering the well-known Lorenz system where data comes from           five sources corresponding to five bifurcation parameters.
        
-       Output the recovered coefficient matrix and compute the relative error.
+      Output the recovered coefficient matrix and compute the relative error.
 8. Test_Lorenz_5sets_100experiments.m
 
        Test our group hard iterative thresholding algorihm on recovering the well-known Lorenz system where data comes from          five sources corresponding to five bifurcation parameters.
