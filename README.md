@@ -1,5 +1,5 @@
 # GroupHardIterativeThresholdingAlgorithm
-Copywright: Hayden Schaeffer, Giang Tran, and Rachel Ward, 2018.
+Copyright: Hayden Schaeffer, Giang Tran, and Rachel Ward, 2018.
 
 Reference: "Learning Dynamical Systems and Bifurcation via Group Sparsity", https://arxiv.org/abs/1709.01558
 1. group_hard_iterative_thresholding.m
